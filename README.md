@@ -6,7 +6,7 @@ The Decennial Census is conducted every ten years ending in zero and counts each
 
 # American Community Survey (ACS) Data #
 
-[ACS] (https://www.census.gov/programs-surveys/acs/guidance/estimates.html) is a demographics survey conducted by the U.S. Census 
+[ACS](https://www.census.gov/programs-surveys/acs/guidance/estimates.html) is a demographics survey conducted by the U.S. Census 
 
 1-year estimates: 12 months of collected data
   * Data for areas with populations of 65,000+
