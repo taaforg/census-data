@@ -1,5 +1,3 @@
-Unless otherwise noted, our data sets are available under the Creative Commons Attribution 4.0 International License, and the code is available under the MIT License. If you find this information useful, please [let us know](mailto:data@taaf.org).
-
 # Decennial Census of Population and Housing (Decennial Census) Data #
 
 The Decennial Census is conducted every ten years ending in zero and counts each resident of the U.S. and where they live.
@@ -28,3 +26,5 @@ The Decennial Census is conducted every ten years ending in zero and counts each
     * Precision is more important than currency 
     * Analyzing very small populations 
     * Examining tracts and other smaller geographies because 1-year estimates are not available
+
+Unless otherwise noted, our data sets are available under the Creative Commons Attribution 4.0 International License, and the code is available under the MIT License. If you find this information useful, please [let us know](mailto:data@taaf.org).
